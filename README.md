@@ -1,1 +1,3 @@
-# tic_tac_toe-in-c-using-data-structure-
+# tic_tac_toe-in-c-using-data-structure- semester 3 
+Main Page will display the main Windows’ menu with single player, multiplayer, etc. Linked list is mostly used as the data structure to store the solutions and retrieve them. Single player mode allows you to play against CPU. In Single Player Mode, CPU uses Deep Learning and plays the moves accordingly. If the result of the game is some new grid, then that grid is also added to the solutions which can be used later. 
+In Multiplayer mode, two people can play against each other a simple game of tic tac toe but as the grid size is 4x4, it results in a very exciting game. 
